@@ -1,0 +1,1 @@
+#!: /bin/bash\n #My first script\n echo Hello World!
